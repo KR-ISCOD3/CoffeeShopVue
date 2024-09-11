@@ -1,0 +1,85 @@
+{
+    "coffeeDrinks": [
+      {
+        "id": 1,
+        "name": "Espresso",
+        "image": "assets/espresso.jpg",
+        "description": "A strong, full-bodied coffee made by forcing hot water through finely-ground coffee beans.",
+        "size": "Small",
+        "price": 2.5
+      },
+      {
+        "id": 2,
+        "name": "Cappuccino",
+        "image": "assets/cappuccino.webp",
+        "description": "A rich coffee drink topped with steamed milk and foam, typically enjoyed in the morning.",
+        "size": "Medium",
+        "price": 3.5
+      },
+      {
+        "id": 3,
+        "name": "Latte",
+        "image": "assets/latte.webp",
+        "description": "A smooth, milky coffee made with espresso and steamed milk, often flavored with syrups.",
+        "size": "Large",
+        "price": 4.0
+      },
+      {
+        "id": 4,
+        "name": "Americano",
+        "image": "https://www.caffesociety.co.uk/assets/recipe-images/how-to-make-an-americano.jpg",
+        "description": "A diluted espresso, giving a similar strength to regular coffee but with a unique flavor.",
+        "size": "Large",
+        "price": 3.0
+      },
+      {
+        "id": 5,
+        "name": "Macchiato",
+        "image": "https://roastercoffees.com/wp-content/uploads/2021/05/Espresso-Macchiato-Recipe.webp",
+        "description": "This is a small coffee drink made by adding a dash of milk or foam to a shot of espresso.",
+        "size": "Small",
+        "price": 3.0
+      },
+      {
+        "id": 6,
+        "name": "Mocha",
+        "image": "https://images.immediate.co.uk/production/volatile/sites/2/2021/11/Mocha-1fc71f7.png?quality=90&resize=556,505",
+        "description": "A chocolate-flavored coffee drink made with espresso, steamed milk, and chocolate syrup.",
+        "size": "Medium",
+        "price": 4.5
+      },
+      {
+        "id": 7,
+        "name": "Flat White",
+        "image": "https://media.cntraveller.com/photos/611bea29628f4910ed101f01/1:1/w_2000,h_2000,c_limit/1caravan.jpg",
+        "description": "A smooth, velvety coffee made with microfoam milk and espresso, less frothy than a latte.",
+        "size": "Medium",
+        "price": 4.0
+      },
+      {
+        "id": 8,
+        "name": "Irish Coffee",
+        "image": "https://espressocoffeeguide.com/wp-content/uploads/2022/08/baileys-irish-coffee.jpg",
+        "description": "It a is cocktail of coffee that mixed with Irish whiskey, sugar, and topped with cream.",
+        "size": "Large",
+        "price": 6.0
+      },
+      {
+        "id": 9,
+        "name": "Iced Coffee",
+        "image": "https://images.immediate.co.uk/production/volatile/sites/30/2022/04/Iced-Caramel-Macchiato-f4a10f9.jpg",
+        "description": "Chilled coffee served over ice, often sweetened and sometimes with milk or cream.",
+        "size": "Large",
+        "price": 3.5
+      },
+      {
+        "id": 10,
+        "name": "Affogato",
+        "image": "https://cdn.apartmenttherapy.info/image/upload/f_jpg,q_auto:eco,c_fill,g_auto,w_1500,ar_1:1/k%2FPhoto%2FRecipes%2F2020-07-How-to-make-affogato-at-home%2FKitchn_HowTo_Affogato_0281",
+        "description": "A dessert-like coffee drink with a scoop of vanilla ice cream or gelato topped with hot espresso.",
+        "size": "Small",
+        "price": 5.0
+      }
+    ]
+  }
+  
